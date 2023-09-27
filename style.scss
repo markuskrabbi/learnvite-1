@@ -1,4 +1,2 @@
-$bgcolor:coral;
-body {
-    background-color: darken($bgcolor, 20);
-}
+$primary: rgb(49, 212, 155);
+@import "bootstrap/scss/bootstrap";
